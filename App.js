@@ -4,7 +4,7 @@ import { StyleSheet, Text, View } from 'react-native';
 export default function App() {
 	return (
 		<View style={styles.container}>
-			<Text style={{ fontSize: '50px' }}>Hello World!!</Text>
+			<Text style={{ fontSize: 50 }}>Hello World!!</Text>
 			<Text>Anna, Sam, Liya </Text>
 		</View>
 	);
