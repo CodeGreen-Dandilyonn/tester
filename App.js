@@ -5,7 +5,7 @@ export default function App() {
 	return (
 		<View style={styles.container}>
 			<Text style={{ fontSize: 50 }}>Hello World!!</Text>
-			<Text>Anna, Sam, Liya </Text>
+			<Text>Anna, Sam, Liya , Janavi </Text>
 		</View>
 	);
 }
